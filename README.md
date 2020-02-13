@@ -12,13 +12,13 @@ https://raulgm18.github.io/simpleone/
 
 var map = L.map('map').setView([51.505, -0.09], 13);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+L.tileLayer('https://github.com/raulgm18/leaflet-maps-with-google-sheets.git', {
+    attribution: '&copy; <a href="https://github.com/raulgm18/leaflet-maps-with-google-sheets.git'
 }).addTo(map);
 
 L.marker([51.5, -0.09]).addTo(map)
     .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-    .openPopup();
+    .openPopup(google-doc-url.js);
 
 
 https://github.com/DataVizForAll/leaflet-maps-with-google-sheets.git
