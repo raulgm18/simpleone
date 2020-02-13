@@ -10,18 +10,15 @@ https://raulgm18.github.io/leaflet-maps-with-google-sheets/
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PGldItuxs5SHDJMLxfCS_nlgbxM" width="640" height="480"></iframe>
 
 
+
+
+
+google-doc-url.js
+
 var map = L.map('map').setView([51.505, -0.09], 13);
 
-L.tileLayer('https://github.com/raulgm18/leaflet-maps-with-google-sheets.git', {
-    attribution: '&copy; <a href="https://github.com/raulgm18/leaflet-maps-with-google-sheets.git'
-}).addTo(map);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap contributors' }).addTo(map);
 
-L.marker([51.5, -0.09]).addTo(map)
-    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-    .openPopup(google-doc-url.js);
+L.marker([51.5, -0.09]).addTo(map) .bindPopup('A pretty CSS3 popup.
+Easily customizable.') .openPopup();
 
-
-https://github.com/DataVizForAll/leaflet-maps-with-google-sheets.git
-
-
-https://github.com/raulgm18/leaflet-maps-with-google-sheets.git
