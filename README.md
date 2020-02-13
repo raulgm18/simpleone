@@ -13,7 +13,7 @@ https://raulgm18.github.io/leaflet-maps-with-google-sheets/
 
 
 
-google-doc-url.js
+google-doc-https://docs.google.com/spreadsheets/d/1BH6IqOeAMjNQxVTc5-51hWBLQA6nHaH6Wff0k1m1AVc/edit#gid=164271551.js
 
 var map = L.map('map').setView([51.505, -0.09], 13);
 
