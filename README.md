@@ -24,4 +24,4 @@ L.marker([51.5, -0.09]).addTo(map)
 https://github.com/DataVizForAll/leaflet-maps-with-google-sheets.git
 
 
-https://github.com/DataVizForAll/leaflet-maps-with-google-sheets.git
+https://github.com/raulgm18/leaflet-maps-with-google-sheets.git
