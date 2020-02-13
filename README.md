@@ -7,6 +7,4 @@ https://raulgm18.github.io/simpleone/
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKrRwlsrG4jiEPevBH9F6Qig1gA4kEA58U0aU1tCgK4Rk6WmDxPeWairsUNco4VH1e9eRNif42jNjV/pubchart?oid=557199677&amp;format=interactive"></iframe>
 
-<iframe src="https://drive.google.com/open?id=1PGldItuxs5SHDJMLxfCS_nlgbxM&usp=sharing" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-https://drive.google.com/open?id=1PGldItuxs5SHDJMLxfCS_nlgbxM&usp=sharing
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PGldItuxs5SHDJMLxfCS_nlgbxM" width="640" height="480"></iframe>
